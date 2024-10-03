@@ -1,3 +1,7 @@
+- Doesn't have eq_chest;
+- 1.564 verts / 2.988 polys; and
+- 3 known issues in the joints.
+
 man01.xml:
 ```xml
 	<AddParts name="parts152" filename="man-parts_skel.elu" autoload="true"> </AddParts>
